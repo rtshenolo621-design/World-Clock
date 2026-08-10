@@ -1,0 +1,13 @@
+h1{ 
+   text-align:center; 
+    background-color: turquoise;}
+
+   body{ 
+    margin: 0;
+    min-height: 100vh;
+    background: linear-gradient(
+        to right,
+        blue 50%,
+        purple 50%
+    );
+} 
